@@ -1,0 +1,24 @@
+h1 {
+  color: rgb(0, 10, 30);
+  background-color: rgb(20, 145, 130);
+}
+#firstrobot {
+  display: flex;
+  margin: auto;
+}
+#secondrobot {
+  align-items: left;
+}
+p {
+  font-family: "Times New Roman";
+  font-size: large;
+  border-style: dashed;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-left: 20px;
+}
+.list {
+  color: blue;
+  padding-left: 20px;
+  padding-top: 20px;
+}
